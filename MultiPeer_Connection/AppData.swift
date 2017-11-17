@@ -1,5 +1,5 @@
 import Foundation
-
+/*
 class AppData: NSObject {
     static let sharedInstance = AppData();
     
@@ -119,3 +119,5 @@ class AppData: NSObject {
         }
     }   
 }
+ 
+ */
